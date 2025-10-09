@@ -124,7 +124,8 @@ export async function setupFlashcards() {
   await readFlashcards();
 }
 
-// 지금 구조의 핵심 요약
-// fetchFlashcards → 읽기
-// createFlashcardData → 쓰기(추가)
-// 그 외에는 UI 이벤트와 렌더링
+/* 지금 구조의 핵심 요약
+fetchFlashcards → 읽기
+createFlashcardData → 쓰기(추가)
+그 외에는 UI 이벤트와 렌더링
+*/
