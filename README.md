@@ -15,7 +15,9 @@ my-project/
 │       ├─ converter.js    ← 変換機能
 │       └─ flashcards.js   ← 暗記カード機能
 ```
-### Process
+```
+# Process
+
 【처음 웹 애플리케이션】 GitHub Pages를 사용하여 웹 사이트를 게시
 - STEP1: 웹 개발의 세계에 뛰어들자!
 
@@ -30,6 +32,8 @@ my-project/
 
 【처음 웹 애플리케이션】 암기 카드 기능의 카드 추가 처리를 구현
 - STEP19: JSON을 읽고 쓰는 API를 구현
+```
+
 
 ### Study Contents
 - HTML＆CSS基礎
